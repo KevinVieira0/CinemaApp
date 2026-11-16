@@ -19,8 +19,6 @@ export default function Header() {
                 </View>
             </View>
         </View>
-
-
     );
 }
 
